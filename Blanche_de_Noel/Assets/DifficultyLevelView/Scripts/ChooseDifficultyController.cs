@@ -24,7 +24,7 @@ public class ChooseDifficultyController : MonoBehaviour
     public void SetEasyMode()
     {
         difficulty = "Easy";
-        difficultyBorder = -5;
+        difficultyBorder = -3;
     }
 
     public void SetNormalMode()
@@ -36,7 +36,7 @@ public class ChooseDifficultyController : MonoBehaviour
     public void SetHardMode()
     {
         difficulty = "Hard";
-        difficultyBorder = 5;
+        difficultyBorder = 3;
     }
 
 }
