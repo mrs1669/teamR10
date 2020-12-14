@@ -1,11 +1,7 @@
 ﻿<Properties StartupConfiguration="{4246EA8D-75C6-4037-09A4-B1682FDE5CF3}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/DayViewTemplate/Scripts/DayPatternController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/ResultView/ResultStar1Scene/Scripts/ResultStar1Controller.cs">
     <Files>
-      <File FileName="Assets/TitleView/Scripts/GAMEMAIN.cs" Line="8" Column="41" />
-      <File FileName="Assets/ResultView/Scripts/ResultSceneController.cs" />
-      <File FileName="Assets/DayViewTemplate/Scripts/DayController.cs" />
-      <File FileName="Assets/DayViewTemplate/Scripts/DayPatternController.cs" Line="1052" Column="23" />
-      <File FileName="Assets/DayViewTemplate/Scripts/ChristmasResultController.cs" Line="135" Column="39" />
+      <File FileName="Assets/ResultView/ResultStar1Scene/Scripts/ResultStar1Controller.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -13,8 +9,13 @@
           <Node name="Blanche_de_Noel" expanded="True">
             <Node name="Assets" expanded="True">
               <Node name="DayViewTemplate" expanded="True">
-                <Node name="Scripts" expanded="True">
-                  <Node name="DayPatternController.cs" selected="True" />
+                <Node name="Scripts" expanded="True" />
+              </Node>
+              <Node name="ResultView" expanded="True">
+                <Node name="ResultStar1Scene" expanded="True">
+                  <Node name="Scripts" expanded="True">
+                    <Node name="ResultStar1Controller.cs" selected="True" />
+                  </Node>
                 </Node>
               </Node>
               <Node name="TitleView" expanded="True">
@@ -28,7 +29,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="af4af2ab-372d-4b4c-8933-13473d193d5d" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="7c6b3007-1017-4d7e-b9c3-97b098c8d809" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
