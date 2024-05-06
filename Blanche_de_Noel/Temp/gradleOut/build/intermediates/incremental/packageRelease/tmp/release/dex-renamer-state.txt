@@ -1,4 +1,0 @@
-#Mon Dec 14 10:12:21 JST 2020
-base.0=/Users/takumi/Desktop/unity/teamR10/Blanche_de_Noel/Temp/gradleOut/build/intermediates/transforms/dexMerger/release/0
-path.0=classes.dex
-renamed.0=classes.dex
